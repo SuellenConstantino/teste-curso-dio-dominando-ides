@@ -66,6 +66,7 @@ public class Gato {
 		this.cor = cor;
 		this.idade = idade;
 	}*/
+	/* só estou fazendo teste */
 	
 
 }
